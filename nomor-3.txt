@@ -1,0 +1,16 @@
+    1  touch customer.h
+    2  touch main.cpp
+    3  mv customer.h ./hotel-del-jojo
+    4  mv main.cpp ./hotel-del-jojo
+    5  ls
+    6  cd hotel-del-jojo
+    7  ls
+    8  mkdir codes
+    9  ls
+   10  mv customer.h ./codes
+   11  mv main.cpp ./codes
+   12  ls
+   13  cd codes
+   14  ls
+   15  code .
+   16  history > nomor-3.txt
