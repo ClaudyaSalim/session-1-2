@@ -1,0 +1,37 @@
+  184  cd data-struct-bootcamp
+  185  cd session-1-2
+  186  mkdir hotel-del-jojo
+  187  ls
+  188  cd hotel-del-jojo
+  189  mkdir customer
+  190  mkdir room
+  191  ls
+  192  cd customer
+  193  touch customer_data.txt
+  194  ls
+  195  cd -
+  196  cd room
+  197  touch room.txt
+  198  ls
+  199  nano room.txt
+  200  cd -
+  201  nano customer_data.txt
+  202  nano room.txt
+  203  rm customer_data.txt
+  204  rm room.txt
+  205  ls
+  206  cd room
+  207  nano room.txt
+  208  cd -
+  209  cd customer_data.txt
+  210  cd customer
+  211  nano customer_data.txt
+  212  cd -
+  213  history
+  214  history > nomor-1-dan-2.txt
+  215  history > 1-dan-2.txt
+  216  history > history.txt
+  217  cd data-struct-bootcamp
+  218  cd session-1-2
+  219  history
+  220  history > nomor-1-dan-2.txt
